@@ -2,12 +2,20 @@
 
 ### Olá, tudo bom? 👋  
 
-Sou **Desenvolvedor Backend** desde 2020, especializado em **.NET**.  
-Atuo no desenvolvimento de soluções robustas e eficientes, sempre buscando **aprimorar minhas habilidades** e oferecer resultados de alta qualidade. Tenho experiência na criação e manutenção de sistemas backend que otimizam processos e agregam valor aos negócios.  
+Experiência em desenvolvimento de software desde 2020, com especialização em backend, utilizando o ecossistema .NET, com ênfase em ASP.NET.
 
-Gosto de comunicar ideias de forma clara e eficaz, além de explorar novas tecnologias e aprender continuamente. Também possuo habilidade em **liderança**, motivando e guiando equipes para alcançar objetivos com excelência.  
+Sólido conhecimento e experiência na liderança e colaboração com equipes multifuncionais, garantindo a escalabilidade, o desempenho e a melhoria contínua de aplicações de alto impacto.
 
-Seja colaborando em projetos ou desenvolvendo soluções, meu foco é sempre entregar resultados sólidos enquanto continuo evoluindo profissionalmente.  
+Habilidade em gerenciar o ciclo completo de desenvolvimento de software, desde o planejamento até a implantação, com foco na entrega de soluções robustas e de alto desempenho.
+
+Profundo entendimento de práticas de desenvolvimento orientadas a objetos, com aplicação dos princípios SOLID, Clean Architecture e Design Patterns.
+
+Compromisso com a melhoria contínua das habilidades técnicas, sempre alinhado às necessidades de negócio e objetivos da empresa.
+Forte competência na utilização de metodologias ágeis, especialmente SCRUM, para garantir entregas rápidas e de alta qualidade, dentro dos prazos estabelecidos.
+
+Capacidade de manter comunicação clara e eficiente com stakeholders e membros da equipe, promovendo a colaboração e o alinhamento de objetivos.
+
+Experiência na implementação de metodologias avançadas, como Domain-Driven Design (DDD) e Command Query Responsibility Segregation (CQRS), visando soluções bem estruturadas, escaláveis e fáceis de manter. 
 
 ---  
 
@@ -32,7 +40,6 @@ Seja colaborando em projetos ou desenvolvendo soluções, meu foco é sempre ent
 #### DevOps e Ferramentas:  
 <div style="display: inline_block">
 	<img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg">
-	<img align="center" alt="Kubernetes" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg">
 	<img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 	<img align="center" alt="RabbitMQ" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg">
 </div> 
